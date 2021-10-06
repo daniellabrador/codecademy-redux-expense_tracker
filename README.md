@@ -1,6 +1,6 @@
 # **Expense Tracker**
 
-Expense Tracker—a budgeting and expense tracking app—allows you to practice refactoring with Redux Toolkit. This app is a [Codecademy](https://www.codecademy.com/learn/learn-redux) project intended to enhance my skills on the use of JavaScript skills.
+Expense Tracker—a budgeting and expense tracking app—allowed me to practice refactoring with Redux Toolkit. This app is a [Codecademy](https://www.codecademy.com/learn/learn-redux) project intended to enhance my skills on the use of JavaScript skills.
 
 ## Table of Contents
 
